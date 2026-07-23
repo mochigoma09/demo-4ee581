@@ -1,2 +1,3 @@
 # demo-4ee581
-Auto generated demo site for ロレインブロウ練馬店
+
+AIによって自動生成された ロレインブロウ練馬店 様向けのデモサイトです。
